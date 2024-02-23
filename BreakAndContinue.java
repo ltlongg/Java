@@ -4,6 +4,7 @@ public class BreakAndContinue {
             if (i == 74) break; // out of for loop
             if (i % 9 != 0) continue; // next iteration
             System.out.println(i);
+            //Check-OK
         }
     }
 }
