@@ -1,6 +1,6 @@
 package java;
 import javaa.Number;
-public class Assignment1 {
+public class Assignment_1 {
     public static void main(String[] args) {
         Number n1 = new Number();
         Number n2 = new Number();
