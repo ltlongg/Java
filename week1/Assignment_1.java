@@ -1,5 +1,4 @@
 package java;
-import javaa.Number;
 public class Assignment_1 {
     //test
     public static void main(String[] args) {
