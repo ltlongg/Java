@@ -1,0 +1,8 @@
+import java.util.*;
+import MyPackage.*;
+public class ex2{
+   public static void main (String [] args){
+      // Vector v = new Vector(); đoạn code này sẽ bị xung đột do không biết Vector thuộc thằng nào
+      java.util.Vector v = new java.util.Vector();
+  }
+}
