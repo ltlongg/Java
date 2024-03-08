@@ -1,0 +1,6 @@
+import MyPackage.*;
+public class VectorTest {
+ public static void main(String[] args) {
+  Vector v = new Vector();
+ }
+}
