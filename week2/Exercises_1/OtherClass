@@ -1,0 +1,9 @@
+import Exercises_1.MyClass;
+
+public class OtherClass {
+    public static void main(String[] args) {
+        MyClass obj = new MyClass(42); // Creating an instance of MyClass
+        int value = obj.getValue(); // Accessing the getValue() method
+        System.out.println("Value: " + value);
+    }
+}
