@@ -1,0 +1,8 @@
+package test_debug;
+import static debug.debugclass;
+import static debugoff.debugclass;
+public class test{
+   public static void main(String[] args){
+       debugclass.debug("hello");
+   }
+}
