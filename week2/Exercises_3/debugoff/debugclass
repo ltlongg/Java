@@ -1,0 +1,6 @@
+package debugoff;
+public class debugclass{
+  public static void debug(){
+     System.out.println("No have anything");
+  }
+}
