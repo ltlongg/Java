@@ -1,0 +1,6 @@
+package debug;
+public class debugclass{
+   public static void debug(String messeger){
+       System.out.println(messeger);
+   }
+}
