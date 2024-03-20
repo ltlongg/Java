@@ -1,0 +1,3 @@
+public: Các class có thể truy cập tới các class khác trong cùng 1 project
+protected: +, Các class có thể truy cập tới các class khác trong cùng 1 package
+           +, Các class con kế thừa các class cha cũng có thể truy cập vô các class cha kể cả class con không nằm cùng 1 package với class cha
